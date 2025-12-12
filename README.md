@@ -1,2 +1,2 @@
 # Linux-kernel-compilation
-Project for "Operating systems" course for Taif university.
+Insane/Impossible/Hard/ for "Operating systems" course for Taif university.
