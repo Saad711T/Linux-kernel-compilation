@@ -3,7 +3,7 @@ Insane/Impossible/Hard/ for "Operating systems" course for Taif university.
 
 Creating and compiling new custom linux kernel.
 
-All commands writed in this [Shell script](script.sh)
+All commands writed on this [Shell script](script.sh)
 
 ## Results
 New kernel size is `2.8 MB` .
