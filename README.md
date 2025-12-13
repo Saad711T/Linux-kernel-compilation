@@ -1,5 +1,5 @@
 # Linux-kernel-compilation
-Insane/Impossible/Hard/ for "Operating systems" course for Taif university.
+Insane/Impossible/Hard Project for "Operating systems" course in Taif university.
 
 Creating and compiling new custom linux kernel.
 
