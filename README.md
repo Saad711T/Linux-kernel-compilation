@@ -8,7 +8,6 @@ All commands already here on this [Shell script](script.sh)
 ## Results
 New kernel size is `2.8 MB` .
 
-![The New Kernel](images/5.jpeg)
 
 ### Thanks for :
 - [Yasser Alharthi](https://github.com/YR-XQ)
