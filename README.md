@@ -14,13 +14,14 @@ New kernel size is `2.8 MB` .
 
 
 ### Thanks for :
-- [Yasser Alharthi](https://github.com/YR-XQ)
-- Mohammad Alharthi
-- Faris Althaqafi
-- Khalid Al-borai
-- Mohammad Alzahrani
+- محمد عبدالله الحارثي
+- محمد عبدالله بخيت الزهراني
+- فارس الثقفي
+- خالد الساقله
+- ياسر مرزوق الحارثي
+- عبد الله الشهري
 
-### Problems LOL
+### Images
 
 |                    |                    |                    |
 | ------------------ | ------------------ | ------------------ |
