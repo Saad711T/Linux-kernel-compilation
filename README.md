@@ -1,9 +1,13 @@
 # Linux-kernel-compilation
-Insane/Impossible/Hard Project for "Operating systems" course in Taif university.
+Final Project for "Operating systems" course in Taif university.
 
 Creating and compiling new custom linux kernel.
 
 All commands already here on this [Shell script](script.sh)
+
+``
+
+``
 
 ## Results
 New kernel size is `2.8 MB` .
