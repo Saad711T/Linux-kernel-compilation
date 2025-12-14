@@ -48,7 +48,7 @@ echo "write sudo reboot to rebooting system and using new kernel"
 New kernel size is `2.8 MB` .
 
 
-### Thanks for :
+### Members :
 - سعد سعيد المالكي 44254198
 - محمد عبدالله الحارثي 44209888
 - محمد عبدالله بخيت الزهراني 44252647
