@@ -48,14 +48,13 @@ echo "write sudo reboot to rebooting system and using new kernel"
 New kernel size is `2.8 MB` .
 
 
-### Members :
-- سعد سعيد المالكي
-- محمد عبدالله الحارثي
-- محمد عبدالله بخيت الزهراني
-- فارس الثقفي
-- خالد الساقله
-- ياسر مرزوق الحارثي
-- عبد الله الشهري
+### Thanks for :
+- [Yasser Alharthi](https://github.com/YR-XQ)
+- Mohammad Alharthi
+- Faris Althaqafi
+- Khalid Al-borai
+- Mohammad Alzahrani
+
 
 ### Images
 
